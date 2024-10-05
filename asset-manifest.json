@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/marzieh-birthday/static/css/main.e15e9de1.css",
+    "main.js": "/marzieh-birthday/static/js/main.fc7bf799.js",
+    "static/media/12.jpg": "/marzieh-birthday/static/media/12.56a88d414c06ea5b1875.jpg",
+    "static/media/2.jpg": "/marzieh-birthday/static/media/2.6ab45093bb931b109181.jpg",
+    "static/media/8.jpg": "/marzieh-birthday/static/media/8.b35575822c2ad0154971.jpg",
+    "static/media/13.jpg": "/marzieh-birthday/static/media/13.156e4e5e2713bcf504ec.jpg",
+    "static/media/10.jpg": "/marzieh-birthday/static/media/10.159aede6a3708a33bb91.jpg",
+    "static/media/11.jpg": "/marzieh-birthday/static/media/11.3c97229e9d23322510ce.jpg",
+    "static/media/7.jpg": "/marzieh-birthday/static/media/7.3117f5480b4da6870ae2.jpg",
+    "static/media/4.jpg": "/marzieh-birthday/static/media/4.979b5e700ea62e52dd95.jpg",
+    "static/media/3.jpg": "/marzieh-birthday/static/media/3.3c8a28a1acdacae2de85.jpg",
+    "static/media/5.jpg": "/marzieh-birthday/static/media/5.d2547af08c1a1557a1e6.jpg",
+    "index.html": "/marzieh-birthday/index.html",
+    "main.e15e9de1.css.map": "/marzieh-birthday/static/css/main.e15e9de1.css.map",
+    "main.fc7bf799.js.map": "/marzieh-birthday/static/js/main.fc7bf799.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e15e9de1.css",
+    "static/js/main.fc7bf799.js"
+  ]
+}

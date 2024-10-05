@@ -1,0 +1,99 @@
+.have-delay {
+    opacity: 0;
+}
+
+.swing {
+    position: absolute;
+    float: left;
+    box-shadow: 5px 5px 10px rgba(0,0,0,0.5);
+}
+
+.swing img {
+    border: 5px solid #f8f8f8;
+    display: block;
+}
+
+.swing:after{
+    content: '';
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    border: 1px solid white;
+    top: -8px;
+    left: 46%;
+    z-index: 0;
+    border-bottom: none;
+    border-right: none;
+    transform: rotate(45deg);
+}
+
+.swing:before{
+    content: '';
+    position: absolute;
+    width: 5px;
+    height: 5px;
+    top: -14px;
+    left: 54%;
+    z-index: 5;
+    border-radius: 50% 50%;
+    background: #ff5454;
+}
+
+@keyframes swing {
+    0% {
+        transform: rotate(3deg);
+    }
+    100% {
+        transform: rotate(-3deg);
+    }
+}
+
+.swing0 {
+    top: 15%;
+    left: 20%
+}
+
+.swing1 {
+    top: 45%;
+    left: 5%
+}
+
+.swing2 {
+    top: 75%;
+    left: 15%
+}
+
+.swing3 {
+    top: 10%;
+    left: 60%
+}
+
+.swing4 {
+    top: 20%;
+    left: 85%
+}
+
+.swing5 {
+    top: 70%;
+    left: 60%
+}
+
+.swing6 {
+    top: 80%;
+    left: 85%
+}
+
+.swing7 {
+    top: 45%;
+    left: 30%
+}
+
+.swing8 {
+    top: 45%;
+    left: 75%
+}
+
+.swing9 {
+    top: 80%;
+    left: 40%
+}

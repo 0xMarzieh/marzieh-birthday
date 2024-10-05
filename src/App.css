@@ -1,0 +1,16 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+body {
+    overflow: hidden;
+    transition: all 1.2s ease-in-out;
+    background-color: rgb(31, 31, 31);
+}
+
+.light {
+    background-color: rgb(255, 212, 155);
+}
